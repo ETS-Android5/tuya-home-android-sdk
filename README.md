@@ -1,4 +1,4 @@
-> **Note:** This repository is inherited from the [previous Tuya Github repository](https://github.com/TuyaInc/tuyasmart_home_android_sdk), which will be deprecated soon. Please use this repository for Tuya SDK development instead. For the changing steps, see [Change a Remote URL]( https://docs.github.com/en/free-pro-team@latest/github/using-git/changing-a-remotes-url).
+> **Note:** This repository is will be deprecated soon, please use this [repository](https://github.com/tuya/tuya-home-android-sdk-sample-java) for Tuya Smart Life App SDK development instead. For the changing steps, see [Change a Remote URL]( https://docs.github.com/en/free-pro-team@latest/github/using-git/changing-a-remotes-url).
 
 ## Tuya Smart Android SDK
 
